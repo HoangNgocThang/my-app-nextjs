@@ -4,7 +4,7 @@
 export default function Home() {
 
   return <div>
-  hello admin
+  hello1
   </div>
   // return (
   //   <main className={styles.main}>
